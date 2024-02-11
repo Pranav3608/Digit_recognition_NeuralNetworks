@@ -13,6 +13,9 @@ There are a few prerequisite libraries and dependencies that you need to have fo
 All these dependencies have been mentioned in the requirements file in the repository. 
 
 # Usage and Implementation
+
+![Digit_Recognition_Architecture](digit_recognition_neuralnetwork.gif)
+
 The code or the Notebook is divided into majorly five different sections:
 1. Data preparation & exploartion: This step involves loading the Handwritten digit dataset and further exploring the dataset ie. shape, structure of the dataset which are necessary steps for further developing the Neural Network for the predictions.
 
