@@ -2,7 +2,8 @@
 Handwritten Digit Recognition using a Neural Network is a prediction tool which employs the capabilities of Tensorflow, Keras for developing sequential neural network for predicting correct digits from a Handwritten Digits Dataset. The model utilizes Matplotlib & Seaborn for seamlessly visualizing Data.
 
 # Installation
-There are a few prerequisite libraries and dependencies that you need to have for running this model.
+There are a few prerequisite libraries and dependencies that you need to have for running this model 
+
 -Tensorflow 
 -Keras  
 -Matplotlib 
