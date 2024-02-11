@@ -4,11 +4,11 @@ Handwritten Digit Recognition using a Neural Network is a prediction tool which 
 # Installation
 There are a few prerequisite libraries and dependencies that you need to have for running this model 
 
--Tensorflow 
--Keras 
--Matplotlib 
--numpy 
--seaborn 
+- Tensorflow 
+- Keras 
+- Matplotlib 
+- numpy 
+- seaborn 
 
 All these dependencies have been mentioned in the requirements file in the repository. 
 
